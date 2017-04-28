@@ -4,12 +4,12 @@ Test.
 
 Relative images:
 
-![Test 1](./test_1.png)
+![Test 1](./test/test_1.png)
 
-![Test 2](/test_2.jpg)
+![Test 2](/test/test_2.jpg)
 
-![Test 3](test_3.bmp)
+![Test 3](test/test_3.bmp)
 
-![Test_4](./test_4.gif)
+![Test_4](./test/test_4.gif)
 
-![Test 5](/test_5.webp)
+![Test 5](/test/test_5.webp)
